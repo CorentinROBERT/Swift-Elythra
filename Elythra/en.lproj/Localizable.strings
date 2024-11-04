@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  BankingApp
+
+  Created by Corentin Robert on 23/10/2024.
+  
+*/
+"app_title" = "Banking App";
+"login_page" = "Login page";
+"login" = "Login";
+"register" = "Register";
+"carousel_first" = "Security is our priority, we put in place all means to secure your funds";
+"carousel_second" = "Competitive and transparent exchange rates to support your international exchanges";
+"carousel_third" = "Have an exclusive world elite card designed by our teams, benefit from the best insurance";
+"carousel_fourth" = "Discover the world of digital banking, control your financial flows";
+"carousel_fifth" = "Together let's build value for your assets";
+"onboarding" = "Onboarding";
+"back" = "Back";
+"next" = "Next";
+"previous" = "Previous";

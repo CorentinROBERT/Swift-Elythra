@@ -1,0 +1,24 @@
+{
+  "originHash" : "e58106eb27e7d5f5d0d201b65f6a3dfdabdb3731a4956eb5964c337a714c60b9",
+  "pins" : [
+    {
+      "identity" : "stepperview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/badrinathvm/StepperView",
+      "state" : {
+        "revision" : "c66fb84c640fbc312f4eead0b7ae2a77f93e0839",
+        "version" : "1.6.7"
+      }
+    },
+    {
+      "identity" : "swiftui-wraplayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FluidGroup/swiftui-WrapLayout.git",
+      "state" : {
+        "revision" : "7c89d42687a8412985642d667afd85cf48ff9670",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
